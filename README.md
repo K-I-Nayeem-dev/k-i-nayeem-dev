@@ -1,7 +1,7 @@
 ### <div align="center">I'm Kamrul Islam Nayeem, a full-time full-stack developer</div>  
   
 
-- 🔭 I’m currently working on [News Portal](https://github.com/K-I-Nayeem-dev/dashboard)  
+- 🔭 I’m currently working on [inventory-management-laravel-livewire-volt](https://github.com/K-I-Nayeem-dev/inventory-management-laravel-livewire-volt)  
   
 
 - 🌱 I’m currently learning Node.js  
